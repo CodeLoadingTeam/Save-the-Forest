@@ -1,0 +1,70 @@
+[Background]
+0,0,288,512
+
+[Ground]
+292, 0, 308, 112
+
+[Cano virado para baixo]
+604, 0, 52, 270
+
+[Cano virado para cima]
+660, 0, 52, 242
+
+[Bird 0]
+528, 128, 34, 24
+
+[Flango 1]
+528, 180, 34, 24
+
+[Passaro 2]
+446, 248, 34, 24
+
+[Game Over]
+x: 292
+y: 398
+w: 188
+h: 38
+
+[Tap]
+x: 352
+y: 306
+w: 70
+h: 36
+
+[Game Over Panel]
+x: 292
+y: 116
+w: 226
+h: 116
+
+[Flappy Bird Logo]
+x: 292
+y: 346
+w: 192
+h: 44
+
+
+
+[0 Grande]
+576, 200, 14, 20
+[1 Grande]
+578, 236, 14, 20
+[2 Grande]
+578, 268, 14, 20
+[3 Grande]
+578, 300, 14, 20
+[4 Grande]
+574, 346, 14, 20
+[5 Grande]
+574, 370, 14, 20
+[6 Grande]
+330,490, 14, 20
+[7 Grande]
+350, 490, 14, 20
+[8 Grande]
+370, 490, 14, 20
+[9 Grande]
+390, 490, 14, 20
+
+[Get Ready]
+292,442,174,44
